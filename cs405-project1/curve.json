@@ -1,0 +1,218 @@
+{
+  "painting": "Kavunlu Natürmort (Still Life with Melon)",
+  "artist": "Şeker Ahmed Paşa",
+  "collection": "Sakıp Sabancı Museum",
+  "coordinates": "normalised: u 0..1 left to right, v 0..1 bottom to top, (0,0) = bottom-left",
+  "activeCurve": "piecewise cubic Bezier (C1)",
+  "piecewiseBezier": {
+    "segments": 10,
+    "layout": "K0 H H K1 H H K2 ... (knots at indices 0,3,6,...; segment i uses points 3i..3i+3)",
+    "c1MaxError": 2.78e-17,
+    "controlPoints": [
+      {
+        "u": 0.2736,
+        "v": 0.7749,
+        "role": "knot"
+      },
+      {
+        "u": 0.2975,
+        "v": 0.7905,
+        "role": "handle"
+      },
+      {
+        "u": 0.3581,
+        "v": 0.8499,
+        "role": "handle"
+      },
+      {
+        "u": 0.4167,
+        "v": 0.8685,
+        "role": "knot"
+      },
+      {
+        "u": 0.4752,
+        "v": 0.8871,
+        "role": "handle"
+      },
+      {
+        "u": 0.559,
+        "v": 0.8967,
+        "role": "handle"
+      },
+      {
+        "u": 0.625,
+        "v": 0.8865,
+        "role": "knot"
+      },
+      {
+        "u": 0.691,
+        "v": 0.8762,
+        "role": "handle"
+      },
+      {
+        "u": 0.7694,
+        "v": 0.8509,
+        "role": "handle"
+      },
+      {
+        "u": 0.8125,
+        "v": 0.8068,
+        "role": "knot"
+      },
+      {
+        "u": 0.8556,
+        "v": 0.7626,
+        "role": "handle"
+      },
+      {
+        "u": 0.8757,
+        "v": 0.6823,
+        "role": "handle"
+      },
+      {
+        "u": 0.8833,
+        "v": 0.6215,
+        "role": "knot"
+      },
+      {
+        "u": 0.891,
+        "v": 0.5608,
+        "role": "handle"
+      },
+      {
+        "u": 0.869,
+        "v": 0.4937,
+        "role": "handle"
+      },
+      {
+        "u": 0.8583,
+        "v": 0.4422,
+        "role": "knot"
+      },
+      {
+        "u": 0.8477,
+        "v": 0.3908,
+        "role": "handle"
+      },
+      {
+        "u": 0.8537,
+        "v": 0.3519,
+        "role": "handle"
+      },
+      {
+        "u": 0.8194,
+        "v": 0.3127,
+        "role": "knot"
+      },
+      {
+        "u": 0.7852,
+        "v": 0.2736,
+        "role": "handle"
+      },
+      {
+        "u": 0.7199,
+        "v": 0.2274,
+        "role": "handle"
+      },
+      {
+        "u": 0.6528,
+        "v": 0.2072,
+        "role": "knot"
+      },
+      {
+        "u": 0.5856,
+        "v": 0.1869,
+        "role": "handle"
+      },
+      {
+        "u": 0.4884,
+        "v": 0.1813,
+        "role": "handle"
+      },
+      {
+        "u": 0.4167,
+        "v": 0.1912,
+        "role": "knot"
+      },
+      {
+        "u": 0.3449,
+        "v": 0.2012,
+        "role": "handle"
+      },
+      {
+        "u": 0.2609,
+        "v": 0.2377,
+        "role": "handle"
+      },
+      {
+        "u": 0.2222,
+        "v": 0.2669,
+        "role": "knot"
+      },
+      {
+        "u": 0.1836,
+        "v": 0.2961,
+        "role": "handle"
+      },
+      {
+        "u": 0.191,
+        "v": 0.3499,
+        "role": "handle"
+      },
+      {
+        "u": 0.1847,
+        "v": 0.3665,
+        "role": "knot"
+      }
+    ]
+  },
+  "catmullRom": {
+    "segments": 10,
+    "points": [
+      {
+        "u": 0.2736,
+        "v": 0.7749
+      },
+      {
+        "u": 0.4167,
+        "v": 0.8685
+      },
+      {
+        "u": 0.625,
+        "v": 0.8865
+      },
+      {
+        "u": 0.8125,
+        "v": 0.8068
+      },
+      {
+        "u": 0.8833,
+        "v": 0.6215
+      },
+      {
+        "u": 0.8583,
+        "v": 0.4422
+      },
+      {
+        "u": 0.8194,
+        "v": 0.3127
+      },
+      {
+        "u": 0.6528,
+        "v": 0.2072
+      },
+      {
+        "u": 0.4167,
+        "v": 0.1912
+      },
+      {
+        "u": 0.2222,
+        "v": 0.2669
+      },
+      {
+        "u": 0.1847,
+        "v": 0.3665
+      }
+    ]
+  }
+}
